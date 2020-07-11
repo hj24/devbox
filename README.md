@@ -1,5 +1,5 @@
 # Devbox
-一个跨平台开箱即用的开发环境工具箱: once build, code every where。
+一个跨平台开箱即用的开发环境工具箱: once build, code every where.
 
 ## Feature list
 - Redis
@@ -9,6 +9,7 @@
 
 ## 预安装工具
 使用本项目前，请先确保你已经安装了 vagrant，如何安装？请看[这里](https://www.vagrantup.com/docs/installation)
+
 当然，如果你是 mac 或者 win 用户，可以直接看下面 👇
 
 ### MacOS
@@ -46,11 +47,11 @@ brew cask install virtualbox vagrant
 更多示例请参考: `./docs/manage/*.md`
 
 ## Todo list
-- [] 基础功能（服务安装/启停/创建资源等）
-- [] 中文文档、示例
-- [] 配置优化
-- [] 添加更多服务
-- [] 英文文档
+- [ ] 基础功能（服务安装/启停/创建资源等）
+- [ ] 中文文档、示例
+- [ ] 配置优化
+- [ ] 添加更多服务
+- [ ] 英文文档
 
 ## 资料
 如果你想更进一步了解 vagrant、docker 这些技术，下面这些资料你可能会感兴趣 👇
